@@ -11,11 +11,13 @@ body {
 h1,
 h2,
 h3 {
+  font-family: "Playfair Display", serif;
   margin: 0;
 }
 
 h1 {
   font-size: 96px;
+  line-height: 5;
 }
 
 h2 {
@@ -34,6 +36,7 @@ p {
 
 .hero {
   background: #f9f7fe;
+  text-align: center;
 }
 
 .navigation-links {
