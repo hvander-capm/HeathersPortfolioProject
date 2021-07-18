@@ -157,3 +157,6 @@ p {
   font-size: 64px;
   line-height: 80px;
 }
+.content {
+  margin: 30px;
+}
