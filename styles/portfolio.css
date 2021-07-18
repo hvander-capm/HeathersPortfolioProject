@@ -160,3 +160,6 @@ p {
 .content {
   margin: 30px;
 }
+.content h3 p {
+  font-weight: bold;
+}
