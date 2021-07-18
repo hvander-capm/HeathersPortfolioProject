@@ -207,7 +207,7 @@ footer .social-links a {
 .fa-github:before {
   content: "\f09b";
 }
-<style > .fa-instagram:before {
+.fa-instagram:before {
   content: "\f16d";
 }
 .fa-twitter:before {
