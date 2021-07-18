@@ -172,5 +172,6 @@ p {
 }
 .content h3 {
   font-size: 24px;
+  font-weight: bolder;
   line-height: 1.5;
 }
