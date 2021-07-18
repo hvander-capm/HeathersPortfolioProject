@@ -149,7 +149,7 @@ p {
   font-size: 18px;
 }
 .btn-branding {
-  background: var(--branding-color);
+  background: var(--primary-color);
   border-radius: 4px;
   color: white;
   font-size: 18px;
@@ -192,7 +192,7 @@ footer .contact-box {
 }
 footer .social-links a {
   margin: 0 20px;
-  color: var(--branding-color);
+  color: var(--primary-color);
   background: var(--secondary-color);
   padding: 10px 14px;
   border-radius: 50%;
