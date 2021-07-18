@@ -102,6 +102,15 @@ p {
   text-decoration: underline;
 }
 
+.btn-branding {
+  background: var(--primary-color);
+  border-radius: 4px;
+  color: white;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
+}
+
 @media (max-width: 576px) {
   h1 {
     font-size: 48px;
@@ -148,14 +157,6 @@ p {
 .about-section h2 {
   font-size: 18px;
 }
-.btn-branding {
-  background: var(--primary-color);
-  border-radius: 4px;
-  color: white;
-  font-size: 18px;
-  line-height: 27px;
-  padding: 15px 30px;
-}
 .content-container {
   padding: 160px 20px;
 }
@@ -192,7 +193,7 @@ footer .contact-box {
 }
 footer .social-links a {
   margin: 0 20px;
-  color: var(--primary-color);
+  color: var(--branding-color);
   background: var(--secondary-color);
   padding: 10px 14px;
   border-radius: 50%;
