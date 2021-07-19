@@ -221,12 +221,12 @@ footer .social-links a {
   text-rendering: auto;
   line-height: 1;
 }
-.fa-github:before {
+.fa-github {
   content: "\f09b";
 }
-.fa-instagram:before {
+.fa-instagram {
   content: "\f16d";
 }
-.fa-twitter:before {
+.fa-twitter {
   content: "\f099";
 }
