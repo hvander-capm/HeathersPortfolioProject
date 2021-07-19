@@ -221,14 +221,14 @@ footer .social-links a {
   text-rendering: auto;
   line-height: 1;
 }
-.fa-github a:before {
-  content: "\f09b";
+.fa-github:before {
+  content: "f09b";
 }
-.fa-instagram a:before {
-  content: "\f16d";
+.fa-instagram:before {
+  content: "f16d";
 }
-.fa-twitter a:before {
-  content: "\f099";
+.fa-twitter:before {
+  content: "f099";
 }
 footer .social-links a:hover {
   color: white;
