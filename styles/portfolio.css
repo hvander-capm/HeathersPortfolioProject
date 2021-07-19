@@ -204,12 +204,12 @@ footer .social-links a {
 .far {
   font-weight: 400;
 }
-.fa-github {
+.fa-github:before {
   content: "\f09b";
 }
-.fa-instagram {
+.fa-instagram:before {
   content: "\f16d";
 }
-.fa-twitter {
+.fa-twitter:before {
   content: "\f099";
 }
