@@ -221,12 +221,16 @@ footer .social-links a {
   text-rendering: auto;
   line-height: 1;
 }
-.fa-github:before {
+.fa-github a:before {
   content: "\f09b";
 }
-.fa-instagram:before {
+.fa-instagram a:before {
   content: "\f16d";
 }
-.fa-twitter:before {
+.fa-twitter a:before {
   content: "\f099";
+}
+footer .social-links a:hover {
+  color: white;
+  background: var(--branding-color);
 }
