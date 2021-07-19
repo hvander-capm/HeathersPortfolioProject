@@ -222,13 +222,13 @@ footer .social-links a {
   line-height: 1;
 }
 .fa-github:before {
-  content: "f09b";
+  content: "\f09b";
 }
 .fa-instagram:before {
-  content: "f16d";
+  content: "\f16d";
 }
 .fa-twitter:before {
-  content: "f099";
+  content: "\f099";
 }
 footer .social-links a:hover {
   color: white;
